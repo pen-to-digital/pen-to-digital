@@ -8,7 +8,6 @@ Hi my name is Wasan Husham Eesa A-Rashid. I have been drawing since my childhood
 #### Design and Development
 ![Design and Development](https://www.youtube.com/@Lina.Art.Design)
 
-Hi, my name is Wasan Husham A-Rashid. I have been drawing since my childhood. Over time, I received training and improved myself by drawing portraits and oil paintings in the field
 
 Skills:  REACT / JS / HTML / CSS
 
